@@ -1,0 +1,27 @@
+{
+  "name": "js-applications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TodorGit/SoftUni_JS_Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TodorGit/SoftUni_JS_Application/issues"
+  },
+  "homepage": "https://github.com/TodorGit/SoftUni_JS_Application#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "playwright-chromium": "^1.27.1"
+  },
+  "dependencies": {
+    "mocha": "^10.1.0"
+  }
+}
